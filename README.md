@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ - 📱 Dev mobile
+ - 🎮 Gamedev in the free time
+
 <!--
 **gatodenegocios/gatodenegocios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
